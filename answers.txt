@@ -7,3 +7,8 @@ if changes made were wrong or unintended. Additionally good for collaboration as
 Q2: What field could data science be applied to? Give an Example.
 Answer: Any field that generates data, could range from healthcare to education. One example is healthcare, tracking patient
 data is essential, and in order to make informed decisions and do accurate research in the field, having conglomorated sanitized medical data is crucial
+
+Answer: Both merging and rebasing integrate changes from one branch into another,
+but they do it differently.
+
+Merging takes two branch histories and combines them, creating a new "merge commit"

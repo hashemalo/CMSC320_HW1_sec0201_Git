@@ -8,6 +8,8 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Any field that generates data, could range from healthcare to education. One example is healthcare, tracking patient
 data is essential, and in order to make informed decisions and do accurate research in the field, having conglomorated sanitized medical data is crucial
 
+Q3: What is the difference between Merging and Rebasing?
+
 Answer: Both merging and rebasing integrate changes from one branch into another, but they do it differently.
 
 Merging takes two branch histories and combines them, creating a new "merge commit"

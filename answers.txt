@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Answer: Git gives us good version control for applications which is particularly useful as a safety net to revert to old code
+if changes made were wrong or unintended. Additionally good for collaboration as multiple people can make changes simultaneously.
